@@ -1,0 +1,1 @@
+用"plato2_cn_small"调用模块。操作与plato2_en_base无异。在非对话模式下，可以用Plato.set_dialog_mode切换对话使用的语言。from_lang：人类语言，en英语，cn中文；to_lang：机器使用语言，en英语，cn中文。
